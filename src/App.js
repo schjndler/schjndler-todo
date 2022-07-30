@@ -37,8 +37,8 @@ function Todo() {
           <h1 class="mb-3 text-3xl font-bold leading-snug text-black sm:text-4xl sm:leading-snug md:text-[45px] md:leading-snug">
             Simple Todo List
           </h1>
-          <p class="mx-auto mb-10 max-w-[600px] text-base text-[#e4e4e4] sm:text-lg sm:leading-relaxed md:text-xl md:leading-relaxed">
-            Just put in your Task and stop getting forgetable.
+          <p class="mx-auto mb-10 max-w-[600px] text-base text-[grey] sm:text-lg sm:leading-relaxed md:text-xl md:leading-relaxed">
+            Just enter your task and stop being forgetful.
           </p>
           <input
             className="px-3 py-2 text-xs font-medium text-center border rounded-lg
